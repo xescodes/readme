@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Xesco
 =============================================================================================================================
 
-Júnior Full Stack Developer
+Junior Full Stack Developer
 ---------------------------
 
 I've been learning to code for 7 years. I started with HTML, PHP... But have really found a passion with backend. Nowadays I'm following several courses of this area, the main of which is a scholarship offered by private companies.
